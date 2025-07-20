@@ -1,7 +1,7 @@
 # Capstone Project 2 - Purwadhika  
 ## Analisis Platform Airbnb Bangkok
 
-# Latar Belakang
+# 1. Latar Belakang
 
 Airbnb Bangkok mengalami penurunan jumlah pengguna dalam beberapa tahun terakhir. Salah satu penyebab utamanya adalah meningkatnya persaingan dari platform alternatif seperti **Booking.com**, **ThaiApartment**, dan **RentHub** yang secara strategis menargetkan ceruk pasar berbeda. 
 
@@ -14,8 +14,6 @@ Dalam kondisi ini, **divisi Pemasaran dan Digital Marketing Airbnb Bangkok** dih
 2. Meningkatkan konversi pengguna  
 
 Kedua hal tersebut harus dicapai di tengah lanskap kompetitor yang semakin terfragmentasi dan tersegmentasi. Oleh karena itu, dibutuhkan strategi yang **berbasis data**, yang mampu **mengidentifikasi elemen-elemen penawaran yang paling memengaruhi preferensi pelanggan** dalam memilih jenis akomodasi di platform Airbnb dibandingkan pesaing.
-
----
 
 ## Rumusan Masalah
 
