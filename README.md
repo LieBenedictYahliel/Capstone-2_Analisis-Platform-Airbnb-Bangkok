@@ -69,6 +69,9 @@ Outlier diidentifikasi dan dihapus berdasarkan dua aturan logis:
 
 Semua entri yang melanggar aturan di atas telah dihapus dari dataset.
 
+> **Catatan:** Bukti intervensi pengguna dalam menentukan dan menerapkan batas 730 hari, serta validasi logis terhadap kolom `maximum_nights`, dapat dilihat pada file notebook:  
+> **`JCDS 2702 Lie Benect Yahliel- Capstone 2`** di bagian *Analisa – Data Cleaning - 6. Outlier `Minimum_nights`*, yang disertai cuplikan visualisasi dan seleksi data.
+
 ### 2.4 Transformasi Variabel Numerik menjadi Kategorikal
 
 Beberapa kolom numerik dikonversi menjadi kategorikal untuk keperluan segmentasi dan analisis yang lebih interpretatif:
