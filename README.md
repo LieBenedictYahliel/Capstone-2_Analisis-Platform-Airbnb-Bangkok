@@ -249,3 +249,25 @@ Analisis eksploratif terhadap data Airbnb Bangkok mengungkap beberapa pola dan i
 - Posisioning **Bang Rak** sebagai:
   - Pusat akomodasi sosial terjangkau bagi wisatawan generasi muda yang mencari keseimbangan antara harga dan kenyamanan.
   - Pilihan strategis bagi pekerja jarak jauh atau wisatawan jangka menengah yang memprioritaskan lokasi sentral, fleksibilitas waktu tinggal, dan akses terhadap kebutuhan kerja digital
+ 
+  ---
+## 6. Dashboard Visualisasi Interaktif Capstone 2
+
+Sebagai bagian dari analisis Airbnb Bangkok, dashboard interaktif ini disusun menggunakan Tableau Public untuk memperkuat pengambilan keputusan berbasis data. Visualisasi yang disajikan mencakup analisis jenis kamar, segmentasi harga, keterlibatan pelanggan, serta distribusi host di seluruh distrik.
+
+Link Tableau Public:  
+https://public.tableau.com/app/profile/lie.benedict.yahliel/viz/DashboardCapstone2_17530236707990/Dashboard1?publish=yes
+
+### 6.1 Fitur Utama
+
+- Filter interaktif berdasarkan room type, segmentasi harga, dan distrik.
+- Visualisasi performa akomodasi berdasarkan review tahunan, ketersediaan, dan aktivitas host.
+- Komparasi antarsegmen untuk mengidentifikasi preferensi pengguna dan peluang strategi pemasaran.
+
+Dashboard ini dirancang untuk membantu tim pemasaran dan pengambil keputusan dalam memahami dinamika pasar dan menyusun strategi yang lebih terarah berdasarkan visualisasi data eksploratif.
+
+---
+Dikerjakan oleh: Lie Benedict Yahliel  
+Proyek ini disusun sebagai bagian dari penyelesaian Capstone Project 2 dalam program Data Analytics Purwadhika.  
+Dokumen dan visualisasi ini dibuat untuk tujuan pembelajaran dan tidak merepresentasikan data resmi dari Airbnb.
+
